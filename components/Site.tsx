@@ -1557,8 +1557,8 @@ function Footer() {
         <div className="legal">
           <span>© 2026 ProDesk · Everything clicks.</span>
           <div className="links">
-            <a href="#">Privacy</a>
-            <a href="#">Terms</a>
+            <a href="https://noize.app.prodesk.com/legal/privacy.html">Privacy</a>
+            <a href="https://noize.app.prodesk.com/legal/terms.html">Terms</a>
             <a href="#">Security</a>
             <a href="#">Cookies</a>
           </div>
